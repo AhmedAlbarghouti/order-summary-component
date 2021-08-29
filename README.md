@@ -29,7 +29,7 @@ Users should be able to:
 
 ## My process
 
-I start with mobile version first, setting up the html then moving on to CSS and after that I would configure a media query if needed.
+I start with mobile version first, setting up the html then moving on to CSS and after that I would configure a media query to modify it for desktop version.
 
 ### Built with
 
